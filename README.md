@@ -3,10 +3,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Student in Data Science / AI
-- 💡 Interested in Machine Learning, Computer Vision, and AI
-- 🚀 Currently working on deep learning projects in medical imaging, remote sensing and agriculture
-
+- 🎓 Graduate in Data Science / Artificial Intellience  
+- 💡 Passionate about Machine Learning, Computer Vision, and AI  
+- 🌿 I enjoy hiking, nature, and sports (football, running, basketball)
+- 🚀 Currently working on deep learning projects (remote sensing, agriculture, medical imaging)
 ---
 
 ## 🛠️ Tech Stack
@@ -20,19 +20,10 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 ---
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/robenson-mondelice-ba3668201)
+[![LinkedIn](https://www.linkedin.com/in/robenson-mondelice-ba3668201)
+[![](https://www.linkedin.com/in/robenson-mondelice-ba3668201)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
